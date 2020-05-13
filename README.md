@@ -1,0 +1,1 @@
+This is a demonstration of things we talked about in discussion [here](https://github.com/graphile/postgraphile-lambda-example/issues/16).
