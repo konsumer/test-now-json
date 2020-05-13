@@ -8,4 +8,4 @@ It illustrates 3 ways to load a JS object form a JSON file.
 
 1 works, 2 does not (due to the dynamic filename + require, which can't be resolved at runtime)
 
-3 works, suprisingly, whcih is a new feature of now.
+3 works, suprisingly, which is a new feature of now.
